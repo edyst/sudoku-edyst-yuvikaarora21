@@ -358,6 +358,6 @@ validatebutton.addEventListener("click",(e)=>{
     }
     else
     {
-    	 alert('CKudos to you,you have successfully completed your game!');	
+    	 alert('Kudos to you,you have successfully completed your game!');	
     }
 })
